@@ -1,0 +1,2 @@
+# Griot
+Griot Project
